@@ -10,7 +10,7 @@ By default the gunshot is synthesized in code, so no audio file is needed.
 
 
 
-\## Install
+## Install
 
 
 
@@ -34,7 +34,7 @@ No git? Click the green \*\*Code\*\* button on GitHub, choose \*\*Download ZIP\*
 
 
 
-\## Run
+## Run
 
 
 
@@ -68,7 +68,7 @@ Want a real gunshot? Put a file named `shot.wav` in the same folder and it will 
 
 
 
-\## Platform notes
+## Platform notes
 
 
 
@@ -82,7 +82,7 @@ Want a real gunshot? Put a file named `shot.wav` in the same folder and it will 
 
 
 
-\## Privacy
+## Privacy
 
 
 
